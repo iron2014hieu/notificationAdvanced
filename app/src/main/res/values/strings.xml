@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">notificationAdvanced</string>
+    <string name="long_dummy_text">In the next parts of the notification tutorial, we will learn how to apply different pre-defined styles to our notifications with the NotificationCompat.Builder’s setStyle</string>
+</resources>
